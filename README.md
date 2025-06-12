@@ -34,8 +34,7 @@ apt install -y ipset iptables dnsutils curl
 ### 方式一：手动下载脚本
 
 ```bash
-wget -O /usr/local/bin/blockv2.6.sh \
-  https://raw.githubusercontent.com/kelenetwork/speedtest-blocker/main/releases/v2.6/blockv2.6.sh
+wget -O /usr/local/bin/blockv2.6.sh https://github.com/kelenetwork/speedtest-blocker/releases/download/v2.6/blockv2.6.sh
 
 chmod +x /usr/local/bin/blockv2.6.sh
 ```
