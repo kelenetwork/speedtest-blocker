@@ -35,7 +35,7 @@ apt install -y ipset iptables dnsutils curl
 
 ```bash
 wget -O /usr/local/bin/blockv2.6.sh \
-  https://raw.githubusercontent.com/你的GitHub用户名/speedtest-blocker/main/releases/v2.6/blockv2.6.sh
+  https://raw.githubusercontent.com/kelenetwork/speedtest-blocker/main/releases/v2.6/blockv2.6.sh
 
 chmod +x /usr/local/bin/blockv2.6.sh
 ```
