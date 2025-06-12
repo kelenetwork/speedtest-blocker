@@ -27,6 +27,7 @@ sudo chmod +x /usr/local/bin/blockv2
 
 ```bash
 blockv2
+speedtest_blocker_v2.sh
 ```
 
 你将看到文字菜单，可选择：
