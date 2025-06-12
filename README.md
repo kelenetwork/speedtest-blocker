@@ -9,8 +9,8 @@ sudo apt install -y ipset iptables dnsutils curl
 
 ### 2. 下载主程序脚本
 ```bash
-sudo curl -o /usr/local/bin/speedtest_blocker_v2.sh \
-  -L https://github.com/kelenetwork/speedtest-blocker/releases/download/v2.0/speedtest_blocker_v2.sh
+sudo curl -o /usr/local/bin/speedtest_blocker_v2.sh -L https://github.com/kelenetwork/speedtest-blocker/releases/download/v2.0/speedtest_blocker_v2.sh
+
 sudo chmod +x /usr/local/bin/speedtest_blocker_v2.sh
 ```
 
